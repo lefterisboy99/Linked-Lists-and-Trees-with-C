@@ -1,10 +1,3 @@
-/*************************************************************
- * @file   main.c                                            *
- * @author Nikolaos Batsaras <batsaras@csd.uoc.gr>  	     *
- *                                                    	     *
- * @brief  Source file for the needs of cs-240a project 2018 *
- ************************************************************/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
